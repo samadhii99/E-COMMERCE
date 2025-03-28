@@ -4,7 +4,7 @@ This project is a feature-rich shopping cart application built using Vite and Re
 
 ✨ Key Features:
 
-Product Management:
+-- Product Management:
 
 🗂️ Display a list of products with an intuitive "Add to Cart" option
 
@@ -12,23 +12,23 @@ Product Management:
 
 🧩 Built with Redux Toolkit for efficient state management
 
-Modern UI with Ant Design:
+-- Modern UI with Ant Design:
 
 💅 Stylish and responsive components for a professional look
 
 📦 User-friendly product listing and cart display
 
-Multi-Language Support:
+-- Multi-Language Support:
 
 🌐 Switch between English, Tamil, and Sinhala using i18next
 
 💬 AI chatbot supports all three languages for natural interaction
 
-Theme Customization:
+-- Theme Customization:
 
 🌙 Toggle between Dark and Light modes for personalized viewing
 
-Smart AI Chatbot:
+-- Smart AI Chatbot:
 
 🤖 Ask any question and receive responses in your preferred language
 
