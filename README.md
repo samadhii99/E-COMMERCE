@@ -1,54 +1,35 @@
-# React + TypeScript + Vite
+🛒 Multi-Language Shopping Cart with Dark/Light Mode & AI Chatbot
+This project is a feature-rich shopping cart application built using Vite and React. It combines modern UI/UX with multilingual support and intelligent assistance for a seamless user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Key Features:
+Product Management:
 
-Currently, two official plugins are available:
+🗂️ Display a list of products with an intuitive "Add to Cart" option
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛒 View and manage items in the cart with easy "Remove" functionality
 
-## Expanding the ESLint configuration
+🧩 Built with Redux Toolkit for efficient state management
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+Modern UI with Ant Design:
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+💅 Stylish and responsive components for a professional look
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+📦 User-friendly product listing and cart display
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+Multi-Language Support:
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+🌐 Switch between English, Tamil, and Sinhala using i18next
+
+💬 AI chatbot supports all three languages for natural interaction
+
+Theme Customization:
+
+🌙 Toggle between Dark and Light modes for personalized viewing
+
+Smart AI Chatbot:
+
+🤖 Ask any question and receive responses in your preferred language
+
+🗣️ Enhances user engagement and support
+
+This project showcases a robust and interactive e-commerce experience with enhanced accessibility and intelligent features.
