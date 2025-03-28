@@ -1,0 +1,158 @@
+{
+  "header": {
+    "store_name": "Shopping Store",
+    "search_placeholder": "Search products...",
+    "my_account": "My Account",
+    "cart": "Cart",
+    "languages": {
+      "english": "English",
+      "sinhala": "Sinhala",
+      "tamil": "Tamil"
+    },
+    "categories": {
+      "women": "Women",
+      "women_clothing": "Clothing",
+      "women_accessories": "Accessories",
+      "men": "Men",
+      "men_clothing": "Clothing",
+      "men_accessories": "Accessories",
+      "kids": "Kids",
+      "kids_clothing": "Clothing",
+      "kids_toys": "Toys",
+      "home_lifestyle": "Home & Lifestyle",
+      "health_beauty": "Health & Beauty"
+    },
+    "account": {
+      "login": "Login",
+      "signup": "Signup",
+      "my_account": "My Account"
+    }
+  },
+  "product": {
+    "sold_out": "Sold out",
+    "in_stock": "In stock",
+    "add_to_cart": "Add to Cart",
+    "installment": "or 3 X"
+  },
+  "footer": {
+    "shop_column_title": "Shop",
+    "information_column_title": "Information",
+    "company_column_title": "Company",
+    "categories": [
+      "WOMEN",
+      "MEN",
+      "KIDS",
+      "MOTHER & BABY",
+      "HOME & LIFESTYLE",
+      "HEALTH & BEAUTY",
+      "AVURUDU",
+      "SALE"
+    ],
+
+    "information": [
+      "Shipping Policy",
+      "Returns & Exchanges",
+      "Terms & Conditions",
+      "Privacy Policy"
+    ],
+    "company": ["About Us", "Contact Us", "FAQs", "CSR", "Our Branches"],
+    "newsletter": {
+      "title": "Newsletter Sign Up",
+      "subtitle": "Sign up for exclusive updates, new arrivals & insider only discounts",
+      "email_placeholder": "Enter your email",
+      "submit": "Submit",
+      "error_empty": "Please enter an email address",
+      "error_invalid": "Please enter a valid email address",
+      "success": "Thank you for subscribing!"
+    },
+    "copyright": "© 2025 Shopping Store. All Rights Reserved."
+  },
+  "store_features": {
+    "comprehensive_selection": {
+      "title": "Comprehensive selection",
+      "description": "Shop online from your favourite department store brand"
+    },
+    "delivery": {
+      "title": "All-island delivery",
+      "description": "Delivery within 3-4 working days"
+    },
+    "support": {
+      "title": "Top-notch support",
+      "description": "Get support from our team via phone, social media and email"
+    },
+    "exchange": {
+      "title": "Easy exchange",
+      "description": "Exchange from any of our stores or complete online"
+    }
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "price": "Rs",
+    "color": "Color",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "continue_shopping": "Continue Shopping",
+    "add_to_cart": "{{name}} added to cart",
+    "remove_from_cart": "Item removed from cart"
+  },
+
+  "chatbot": {
+    "welcome": "Welcome to Envogue! I can help you find the perfect product, answer questions about our store, and guide you through your shopping experience. Click on a quick question below or type your own!",
+    "greetings": {
+      "response": "Hello! Welcome to Envogue. How can I assist you today?"
+    },
+    "thanks": {
+      "response": "You're welcome! Is there anything else I can help you with today?"
+    },
+    "farewell": {
+      "response": "Thank you for chatting with Envogue. Have a great day!"
+    },
+    "howAreYou": {
+      "response": "I'm doing great, thank you for asking! I'm here to help you with any shopping needs."
+    },
+    "productAvailability": {
+      "response": "We have {{totalProducts}} products across {{categories}} categories. Currently, {{inStockProducts}} products are in stock. Would you like to hear about our top categories?"
+    },
+    "recommendation": {
+      "available": "I recommend our {{productName}} from the {{category}} category. It's priced at Rs {{price}} and available in {{colors}} colors.",
+      "outOfStock": "I'd love to recommend a product, but we're currently low on stock."
+    },
+    "payment": {
+      "response": "We offer flexible payment options! Each product has an installment plan. For example, you can pay in 3 installments. The installment price is clearly shown for each product."
+    },
+    "order": {
+      "response": "To place an order, simply browse our products, select your desired item, choose a color, and click 'Add to Cart'. Then proceed to checkout and complete your purchase."
+    },
+    "shipping": {
+      "response": "We provide tracking for all orders. After purchase, you'll receive a tracking number via email. Typical shipping takes 3-5 business days."
+    },
+    "returns": {
+      "response": "We offer a 30-day hassle-free return policy. If you're not satisfied with your purchase, you can return the item in its original condition for a full refund."
+    },
+    "support": {
+      "response": "You can reach our customer support via email at support@envogue.com or call our helpline at +1 (555) 123-4567. We're available Monday to Saturday, 9 AM to 6 PM."
+    },
+    "discount": {
+      "response": "We occasionally offer seasonal discounts. Sign up for our newsletter to get the latest deals and promotional offers!"
+    },
+    "fallbackResponses": [
+      "I'm not quite sure about that. Could you rephrase your question?",
+      "That's an interesting query. Could you provide more details?",
+      "I'm listening! Could you tell me more about what you're looking for?",
+      "I want to help! Can you clarify your question a bit more?",
+      "Let me understand better. Could you rephrase your question?"
+    ],
+    "quickQuestions": [
+      "What products do you sell?",
+      "What payment methods do you accept?",
+      "Do you offer installment payments?",
+      "Can I track my order?",
+      "How do I contact customer support?",
+      "Can you recommend a product for me?"
+    ],
+    "drawerTitle": "Envogue Shopping Assistant",
+    "inputPlaceholder": "Ask about products, orders, or shopping...",
+    "quickQuestionsTitle": "Quick Questions"
+  }
+}
