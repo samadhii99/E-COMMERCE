@@ -1,7 +1,9 @@
 🛒 Multi-Language Shopping Cart with Dark/Light Mode & AI Chatbot
+
 This project is a feature-rich shopping cart application built using Vite and React. It combines modern UI/UX with multilingual support and intelligent assistance for a seamless user experience.
 
 ✨ Key Features:
+
 Product Management:
 
 🗂️ Display a list of products with an intuitive "Add to Cart" option
